@@ -1,0 +1,42 @@
+[
+    {
+        "id": 2,
+        "nombre": "Valeria",
+        "apellido1": "Paredes",
+        "apellido2": "González",
+        "run": "13.502.649-6",
+        "promedio": 64,
+        "peso": 70,
+        "estatura": 1.60
+    },
+    {
+        "id": 3,
+        "nombre": "Benjamín",
+        "apellido1": "Cordero",
+        "apellido2": "Navarro",
+        "run": "13.502.649-6",
+        "promedio": 65,
+        "peso": 66,
+        "estatura": 1.75
+    },
+    {
+        "id": 4,
+        "nombre": "Amelia",
+        "apellido1": "Torres",
+        "apellido2": "Reyes",
+        "run": "12.847.931-1",
+        "promedio": 59,
+        "peso": 74,
+        "estatura": 1.82
+    },
+    {
+        "id": 5,
+        "nombre": "Hernan",
+        "apellido1": "luxardo",
+        "apellido2": "Ramirez",
+        "run": "14.463.365-7",
+        "promedio": 69,
+        "peso": 70,
+        "estatura": 1.75
+    }
+]
